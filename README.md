@@ -1,4 +1,4 @@
-# CodeX Germen Beverage Company Marketing Analysis For Energy Drink
+# CodeX Germen Beverage Company Market Research Analysis For Energy Drink
 # Situation
 CodeX, a German beverage company, launched its energy drink in 10 Indian cities to establish a foothold in the competitive market. To gauge the effectiveness of their marketing efforts and gather consumer insights, the Marketing team conducted a survey with 10,000 respondents. Tasked with deriving actionable insights from this data which I collected from codebasics.io website where the chalange was conducted, I, as a marketing data analyst, embarked on a comprehensive data analysis project. My goal was to analyze brand awareness, market share, and product development opportunities, providing the marketing team with strategic recommendations to enhance their market penetration and product appeal.
 # Task
